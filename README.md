@@ -1,2 +1,2 @@
-# scripts---mac
-Shell scripts for mac osx
+# scripts - mac
+Bash shell scripts for mac osx
